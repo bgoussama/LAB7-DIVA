@@ -102,8 +102,8 @@
 
 <img width="460" height="933" alt="image" src="https://github.com/user-attachments/assets/fc5568b8-e89e-4038-a16f-eec7ce1101be" />
 
+<img width="1025" height="343" alt="image" src="https://github.com/user-attachments/assets/a262816f-b7d2-4457-ad9a-5f3bac968445" />
 
-<img width="955" height="349" alt="image" src="https://github.com/user-attachments/assets/36c4f2f9-72a6-4247-828d-5fdda22ba58a" />
 
 <img width="487" height="616" alt="image" src="https://github.com/user-attachments/assets/ccae7859-6dd2-47f8-b48d-8d4071fc9d0d" />
 
