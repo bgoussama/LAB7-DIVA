@@ -1,6 +1,5 @@
 # 🔐 Lab 7 — MobSF Dynamic Analysis avec DIVA
-**Nom :** ___________________________  
-**Date :** ___________________________  
+**Nom :**  Bagy Oussama
 **Module :** Sécurité Mobile / Android
 
 ---
